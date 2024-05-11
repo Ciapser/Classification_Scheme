@@ -1,12 +1,7 @@
 # Ignore everything in these directories
-DataSet/*
-DataSet_Processed/*
-Models_saved/*
-
-# But track the directories themselves
-!DataSet/
-!DataSet_Processed/
-!Models_saved/
+#DataSet/*
+#DataSet_Processed/*
+#Models_saved/*
 
 Models milestones and benchmark.xlsx
 __pycache__/config.cpython-310.pyc
