@@ -1,6 +1,18 @@
-DataSet/
-DataSet_Processed/
-Models_saved/
-Config.py
+
+
+DataSet/*
+DataSet_Processed/*
+Models_saved/*
+
+!Actual_Best_Result/
+!DataSet/
+!DataSet_Processed/
+!Models_saved/
+
 Models milestones and benchmark.xlsx
 __pycache__/config.cpython-310.pyc
+
+#Config.py
+#While working on project you can uncomment Config
+
+
