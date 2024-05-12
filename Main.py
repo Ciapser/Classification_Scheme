@@ -1,5 +1,5 @@
 import Config
-from Neuroituls import Core
+from NeuroUtils import Core
 """
 #For working with unreleased version directly from local repository, to test things out
 import sys
